@@ -9,6 +9,6 @@ Some dependencies:
   <li><a href="https://pyrocko.org/kite/docs/current/installation.html">kite v1.3.0</a> (and associated dependencies)</li>
   <li>numpy</li>
   <li>matplotlib</li>
-  <li?gdal</li>
+  <li>gdal</li>
 </ul>
 
